@@ -2,7 +2,7 @@
 This repository contains a basic config for kitty.
 
 ## Prerequisites
-- Symbol Nerd Fonts
+- Symbol Nerd Fonts: Move files in kitty-fonts to ~/.local/share/fonts/
 - Kitty
 ```bash
 pacman -S kitty
